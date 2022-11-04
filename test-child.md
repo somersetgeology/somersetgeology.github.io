@@ -1,6 +1,6 @@
 ---
-title: Child of Test
-parent: Test
+title: Quantock
+parent: Local Geological Sites
 has_children: true
 nav_order: 1
 ---
