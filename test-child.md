@@ -1,10 +1,10 @@
 ---
-title: Quantock
+title: Quantocks
 parent: Local Geological Sites
 has_children: true
 nav_order: 1
 ---
 
-# Quantock Region
+# Quantocks
 
 I am a child page.
