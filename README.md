@@ -1,4 +1,4 @@
-## Somerset Geology
+# Somerset Geology
 
 Website prototype for the Somerset Geology Group.
 
