@@ -1,7 +1,7 @@
 ---
-title: Granchild of Test
-parent: Quantocks
-grand_parent: Local Geological Sites
+title: Triscombe
+parent: quantocks
+grand_parent: local-geological-sites
 nav_order: 1
 ---
 
