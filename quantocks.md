@@ -1,6 +1,6 @@
 ---
 title: Quantocks
-parent: local-geological-sites
+parent: Local Geological Sites
 has_children: true
 nav_order: 1
 ---
