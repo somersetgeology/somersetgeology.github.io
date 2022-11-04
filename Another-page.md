@@ -1,10 +1,10 @@
 ---
-title: Test
+title: Local Geological Sites
 has_children: true
 nav_order: 2
 ---
 
-# Another page
+# Local Geological Sites
 
 Test this
 
