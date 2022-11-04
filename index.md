@@ -1,6 +1,6 @@
 # Somerset Geology
 
-Welcome to the Somerset Geology Group, a network, of both professionals and amateurs, with an interest in geological conservation and associated activity in Somerset. 
+Welcome to the Somerset Geology Group, a network of both professionals and amateurs with an interest in geological conservation and associated activity in Somerset. 
 
 https://geoffrowland.github.io/somersetgeology/
 
