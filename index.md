@@ -3,8 +3,8 @@ title: Home
 has_children: false
 nav_order: 1
 ---
-![William Smith section](https://somersetgeology.github.io/assets/images/TauntonStallbridge.png)
 # Somerset Geology
+![William Smith section](https://somersetgeology.github.io/assets/images/TauntonStallbridge.png)
 
 Welcome to the Somerset Geology Group, a network of both professionals and amateurs with an interest in geological conservation and associated activity in Somerset. 
 
