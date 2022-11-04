@@ -3,7 +3,7 @@ title: Home
 has_children: false
 nav_order: 1
 ---
-![Vallis Vale](https://geoffrowland.github.io/somersetgeology/assets/images/TauntonStallbridge.png "William Smith section")
+![William Smith section](https://geoffrowland.github.io/somersetgeology/assets/images/TauntonStallbridge.png "William Smith section")
 # Somerset Geology
 
 Welcome to the Somerset Geology Group, a network of both professionals and amateurs with an interest in geological conservation and associated activity in Somerset. 
