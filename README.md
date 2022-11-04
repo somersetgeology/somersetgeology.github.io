@@ -2,7 +2,7 @@
 
 Website prototype for the Somerset Geology Group.
 
-https://somersetgeology.github.io/https://somersetgeology.github.io/
+https://somersetgeology.github.io
 
 You can use the [editor on GitHub](https://github.com/somersetgeology/somersetgeology/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
