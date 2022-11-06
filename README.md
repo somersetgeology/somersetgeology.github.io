@@ -8,12 +8,19 @@ You can use the [editor on GitHub](https://github.com/somersetgeology/somersetge
 This website uses the Just the Docs Jekyll theme
 
 Configuration: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+
 UI Components: https://just-the-docs.github.io/just-the-docs/docs/ui-components
+
 Utilities: https://just-the-docs.github.io/just-the-docs/docs/utilities
+
 Navigation structure:https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/
+
 Customisation: https://just-the-docs.github.io/just-the-docs/docs/customization/
+
 Search: https://just-the-docs.github.io/just-the-docs/docs/search/
+
 Markdowensyntax: https://just-the-docs.github.io/just-the-docs/docs/index-test/
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
