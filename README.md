@@ -1,5 +1,5 @@
 # Somerset Geology
-Demo website for Somerset Geologt.
+Demo website for Somerset Geology.
 
 https://somersetgeology.github.io
 
