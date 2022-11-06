@@ -1,36 +1,22 @@
 # Somerset Geology
-
-Website prototype for the Somerset Geology Group.
+Demo website for Somerset Geologt.
 
 https://somersetgeology.github.io
 
 You can use the [editor on GitHub](https://github.com/somersetgeology/somersetgeology/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website uses the Just the Docs Jekyll theme
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+Configuration: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+UI Components: https://just-the-docs.github.io/just-the-docs/docs/ui-components
+Utilities: https://just-the-docs.github.io/just-the-docs/docs/utilities
+Navigation structure:https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/
+Customisation: https://just-the-docs.github.io/just-the-docs/docs/customization/
+Search: https://just-the-docs.github.io/just-the-docs/docs/search/
+Markdowensyntax: https://just-the-docs.github.io/just-the-docs/docs/index-test/
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Themes
 
