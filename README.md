@@ -7,19 +7,18 @@ You can use the [editor on GitHub](https://github.com/somersetgeology/somersetge
 
 This website uses the Just the Docs Jekyll theme
 
-Configuration: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+1. Configuration: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+2. UI Components: https://just-the-docs.github.io/just-the-docs/docs/ui-components/
 
-UI Components: https://just-the-docs.github.io/just-the-docs/docs/ui-components/
+3. Utilities: https://just-the-docs.github.io/just-the-docs/docs/utilities/
 
-Utilities: https://just-the-docs.github.io/just-the-docs/docs/utilities/
+4. Navigation structure: https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/
 
-Navigation structure: https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/
+5. Customisation: https://just-the-docs.github.io/just-the-docs/docs/customization/
 
-Customisation: https://just-the-docs.github.io/just-the-docs/docs/customization/
+6. Search: https://just-the-docs.github.io/just-the-docs/docs/search/
 
-Search: https://just-the-docs.github.io/just-the-docs/docs/search/
-
-Markdown syntax: https://just-the-docs.github.io/just-the-docs/docs/index-test/
+7. Markdown syntax: https://just-the-docs.github.io/just-the-docs/docs/index-test/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
