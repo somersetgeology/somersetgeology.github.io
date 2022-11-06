@@ -3,6 +3,9 @@ description: Somerset Geology Group - Local Geological Sites in Somerset
 remote_theme: just-the-docs/just-the-docs
 url: https://geoffrowland.github.io/somersetgeology
 search_enabled: true
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
 # Aux links for the upper right navigation
 #aux_links:
 #  "Somerset Environmental Records Centre":
