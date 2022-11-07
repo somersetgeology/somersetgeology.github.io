@@ -8,7 +8,7 @@ nav_order: 2
 <div style = "height: 250px" id="map"></div>
 <script>
 
-	const map = L.map('map').setView([51.505, -0.09], 13);
+	const map = L.map('map').setView([50.96, -3.09], 8);
 
 	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
