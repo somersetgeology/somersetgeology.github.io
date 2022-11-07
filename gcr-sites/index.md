@@ -5,10 +5,10 @@ nav_order: 2
 ---
 # Geological Conservation Review Sites
 
-<div style = "height: 250px" id="map"></div>
+<div style = "height: 300px" id="map"></div>
 <script>
 
-	const map = L.map('map').setView([50.96, -3.09], 8);
+	const map = L.map('map').setView([50.96, -3.09], 9);
 
 	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
