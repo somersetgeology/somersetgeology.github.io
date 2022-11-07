@@ -3,8 +3,18 @@ title: GCR Sites
 has_children: true
 nav_order: 2
 ---
-
 # Geological Conservation Review Sites
+
+<div style = "height: 180px" id="map"></div>
+<script>
+
+	const map = L.map('map').setView([51.505, -0.09], 13);
+
+	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+ </script>
 
 The Geological Conservation Review (GCR) is the register of known nationally and internationally important Earth science (geological and geomorphological) sites in Great Britain. The GCR underpins designation of Earth science features in Sites of Special Scientific Interest (SSSIs). The majority of GCR sites, therefore, now have statutory protection through designation as notified features in SSSIs.
 
