@@ -10,7 +10,7 @@ The Geological Conservation Review (GCR) is the register of known nationally and
 
 Some GCR sites, however, remain unnotified and are known as unnotified GCR sites. National Park Authorities and some Local Authorities treat these as candidate SSSIs and afford them the same protection as SSSIs.
 
-Some unnotified GCR sites are also Local Geodiversity Sites (LGS), and as such they are afforded levels of protection appropriate to locally important sites (though they are, themselves, considered to be of national or international importance).
+Some unnotified GCR sites are also Local Geological Sites (LGS), and as such they are afforded levels of protection appropriate to locally important sites (though they are, themselves, considered to be of national or international importance).
 
 The remaining unnotified GCR sites have no statutory protection, although they are considered to be sites of national or international importance.
 
