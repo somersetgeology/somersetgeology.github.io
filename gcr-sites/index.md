@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Geological Conservation Review Sites
 
-<div style = "height: 180px" id="map"></div>
+<div style = "height: 250px" id="map"></div>
 <script>
 
 	const map = L.map('map').setView([51.505, -0.09], 13);
