@@ -12,6 +12,7 @@ nav_order: 2
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 	map.addControl(new L.Control.Fullscreen());
+	L.control.mousePosition().addTo(map);
  </script>
  
 # Geological Conservation Review Sites
