@@ -5,4 +5,4 @@ nav_order: 5
 ---
 
 # About
-I am a child page.
+About Somerset Geology.
