@@ -3,6 +3,7 @@ title: GCR Sites
 has_children: true
 nav_order: 2
 ---
+
 <div style = "height: 360px" id="map"></div>
 <script>
 	const map = L.map('map').setView([51.13, -3.10], 9);
