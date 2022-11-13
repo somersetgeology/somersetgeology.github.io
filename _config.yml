@@ -1,5 +1,5 @@
 title: "Somerset Geology"
-description: Somerset Geology Group - Local Geological Sites in Somerset
+description: Somerset Geology - Local Geological Sites in Somerset
 # remote_theme: just-the-docs/just-the-docs
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 url: https://somersetgeology.github.io
@@ -21,5 +21,5 @@ nav_external_links:
   - title: SERC
     url: https://www.somerc.com/
     hide_icon: false # set to true to hide the external link icon - defaults to false
-plugins:
-  - jekyll-default-layout
+# plugins:
+#  - jekyll-default-layout
