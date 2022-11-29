@@ -1,6 +1,6 @@
 ---
-title: Grey Lake
+title: Greylake
 parent: GCR Sites
 has_children: false
 ---
-# Grey Lake
+# Greylake
