@@ -4,17 +4,7 @@ has_children: true
 nav_order: 2
 ---
 
-<div style = "height: 360px" id="map"></div>
-<script>
-	const map = L.map('map').setView([51.13, -3.10], 9);
-
-	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map);
-	map.addControl(new L.Control.Fullscreen());
-	L.control.mousePosition().addTo(map);
- </script>
+<iframe allowfullscreen src="https://somersetgeology.github.io/gcr-csv/index.html" style="height:500px; width:100%; border:none;" title="Dorset GCR Sites"></iframe>
  
 # Geological Conservation Review Sites
 
