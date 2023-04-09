@@ -1,7 +1,7 @@
 title: "Somerset Geology"
 description: Geological features in Somerset
 # remote_theme: just-the-docs/just-the-docs
-remote_theme: just-the-docs/just-the-docs@v0.4.0
+remote_theme: just-the-docs/just-the-docs@v0.4.2
 url: https://somersetgeology.github.io
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/SomersetGeology.png"
