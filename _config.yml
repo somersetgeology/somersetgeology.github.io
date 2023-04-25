@@ -18,6 +18,9 @@ search.button: true
 # aux_links_new_tab: true
 # External navigation links
 nav_external_links:
+  - title: SGG
+    url: https://www.somerc.com/specialist-groups/somerset-geology-group/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: SERC
     url: https://www.somerc.com/
     hide_icon: false # set to true to hide the external link icon - defaults to false
