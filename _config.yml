@@ -16,6 +16,11 @@ search.button: true
 
 # Makes Aux links open in a new tab. Default is false
 # aux_links_new_tab: true
+# Callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
 # External navigation links
 nav_external_links:
   - title: SGG
