@@ -30,6 +30,7 @@ Data sources
 * Ordnance Survey
 * National Library of Scotland
 * Office of National Statistics
+* Somerset Environmental Records Centre
 
 This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
 
