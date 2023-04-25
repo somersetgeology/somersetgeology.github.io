@@ -18,9 +18,9 @@ search.button: true
 # aux_links_new_tab: true
 # Callouts
 callouts:
-  warning:
-    title: Warning
-    color: red
+  note:
+    title: Note
+    color: green
 # External navigation links
 nav_external_links:
   - title: SGG
