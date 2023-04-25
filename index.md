@@ -28,5 +28,7 @@ Ordnance Survey
 National Library of Scotland
 Somerset Environmental Records Centre
 
+User comments, bug reports, feature requests etc are welcome in [Issues](https://github.com/somersetgeology/somersetgeology.github.io/issues)
+
 &copy; Geoffrey Rowland 2023
 
