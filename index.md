@@ -31,7 +31,7 @@ Data sources
 * National Library of Scotland
 * Office of National Statistics
 
-This site is very much a work-in-progress. However, user comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
+This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
 
 &copy; Geoffrey Rowland 2023
 
