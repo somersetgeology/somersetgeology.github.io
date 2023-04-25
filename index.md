@@ -15,11 +15,11 @@ This is a 'proof-of-concept' site exploring the use of web technologies to give 
 For up-to-date geological and geoconservation news and information for Somerset, please visit the [Somerset Geology Group](https://www.somerc.com/specialist-groups/somerset-geology-group/) hosted by the [Somerset Environmental Records Centre](https://www.somerc.com/)
 
 Hosting
-* GitHub Pages
-* Just the Docs Jekyll
+* [GitHub Pages](https://pages.github.com/)
+* [Just the Docs](https://just-the-docs.github.io/just-the-docs/) a documentation theme for [Jekyll](https://jekyllthemes.io/github-pages-themes)
 
 Web maps
-* LeafletJS
+* [LeafletJS](https://leafletjs.com/)
 
 Data sources
 * Environment Agency
