@@ -14,21 +14,24 @@ This is a 'proof-of-concept' site exploring the use of web technologies to give 
 {: .note }
 For up-to-date geological and geoconservation news and information for Somerset, please visit the [Somerset Geology Group](https://www.somerc.com/specialist-groups/somerset-geology-group/) hosted by the [Somerset Environmental Records Centre](https://www.somerc.com/)
 
-Hosting: GitHub Pages
-Theme: Just-the-Docs
+Hosting
+* GitHub Pages
+* Just the Docs Jekyll
 
-Web maps: LeafletJS
+Web maps
+* LeafletJS
 
-Environment Agency
-Britsh Geological Survey
-Natural England
-Historic England
-Office of National Statistics
-Ordnance Survey
-National Library of Scotland
-Somerset Environmental Records Centre
+Data sources
+* Environment Agency
+* Britsh Geological Survey
+* Joint Nature Conservation Committee
+* Natural England
+* Historic England
+* Ordnance Survey
+* National Library of Scotland
+* Office of National Statistics
 
-User comments, bug reports, feature requests etc are welcome in [Issues](https://github.com/somersetgeology/somersetgeology.github.io/issues)
+This site is very much a work-in-progress. However, user comments, bug reports, feature requests etc are very welcome in [Issues](https://github.com/somersetgeology/somersetgeology.github.io/issues)
 
 &copy; Geoffrey Rowland 2023
 
