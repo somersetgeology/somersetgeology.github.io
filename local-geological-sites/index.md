@@ -6,7 +6,4 @@ nav_order: 3
 
 # Local Geological Sites
 
-Test this
-
-
-blah
+{: .note } For up-to-date information in Local Geological Sites in Somerset, please visit the Somerset Geology Group hosted by the Somerset Environmental Records Centre
