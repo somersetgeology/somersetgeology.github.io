@@ -24,5 +24,10 @@ nav_external_links:
   - title: SERC
     url: https://www.somerc.com/
     hide_icon: false # set to true to hide the external link icon - defaults to false
+# callouts
+callouts:
+   note:
+    title: Note
+    color: green
 # plugins:
 #  - jekyll-default-layout
