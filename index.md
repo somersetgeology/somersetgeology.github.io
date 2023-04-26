@@ -40,6 +40,8 @@ Data sources
 * Office of National Statistics
 * Somerset Environmental Records Centre
 
+
+{: .note }
 This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
 
 &copy; Geoffrey Rowland 2023
