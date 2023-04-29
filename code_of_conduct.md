@@ -1,7 +1,7 @@
 ---
-title: Code of Conduct
+title: Contributor Code of Conduct
 has_children: false
-nav_order: 10
+nav_order: 6
 ---
 
 
