@@ -12,13 +12,13 @@ Geological features in Somerset.
 This is a 'proof-of-concept' site exploring the use of web technologies to give access to geological and geoconservation information from a range of authoritative sources (detailed below).
 
 {: .note }
-For the latest geoconservation information for Somerset, please visit the [Somerset Geology Group](https://www.somerc.com/specialist-groups/somerset-geology-group/) hosted by the [Somerset Environmental Records Centre](https://www.somerc.com/)
+For the latest geoconservation information for Somerset, please visit the [Somerset Geology Group](https://www.somerc.com/specialist-groups/somerset-geology-group/) hosted by the [Somerset Environmental Records Centre](https://www.somerc.com/).
 
 Not for navigational, planning or commercial use. Educational and research use only
 
 Many of the included data sets and map layers are derived from open data sources, or sources with liberal licensing.  If you copy or adapt this application you must comply with the copyright and terms of use of the relevant data sources. All relevant attribution must be displayed.
 
-This web map includes a composite high-resolution hillshade terrain base-map layer for Southwest England 
+The web maps include a composite high-resolution hillshade terrain base-map layer for Southwest England, derived from the [National LIDAR Programme]{https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Hosting
 * [GitHub Pages](https://pages.github.com/)
