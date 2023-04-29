@@ -11,10 +11,10 @@ Geological features in Somerset.
 
 This is a 'proof-of-concept' site exploring the use of web technologies to give access to geological and geoconservation information from a range of authoritative sources (detailed below).
 
+Educational and research use only. Not for navigational, planning or commercial use. 
+
 {: .note }
 For the latest geoconservation information for Somerset, please visit the [Somerset Geology Group](https://www.somerc.com/specialist-groups/somerset-geology-group/) hosted by the [Somerset Environmental Records Centre](https://www.somerc.com/).
-
-Not for navigational, planning or commercial use. Educational and research use only
 
 Many of the included data sets and map layers are derived from open data sources, or sources with liberal licensing.  If you copy or adapt this application you must comply with the copyright and terms of use of the relevant data sources. All relevant attribution must be displayed.
 
