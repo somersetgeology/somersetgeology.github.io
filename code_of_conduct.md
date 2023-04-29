@@ -1,3 +1,10 @@
+---
+title: Code of Conduct
+has_children: false
+nav_order: 10
+---
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
