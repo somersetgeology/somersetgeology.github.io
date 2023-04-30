@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Code of Conduct
-nav_exclude: true
 ---
 
 # Contributor Covenant Code of Conduct
