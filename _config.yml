@@ -23,6 +23,15 @@ callouts:
   note:
     title: Note
     color: green
+
+  warning:
+    title: Warning
+    color: red
+
+  important:
+    title: Important
+    color: blue
+
 # External navigation links
 nav_external_links:
   - title: SGG
