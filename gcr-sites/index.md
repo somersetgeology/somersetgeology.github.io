@@ -8,7 +8,7 @@ nav_order: 2
  
 # Geological Conservation Review Sites
 
-{: .note} For site visits follow the [Geologists' Association Fieldwork Code](https://somersetgeology.github.io/GA_geological_field_work_code.pdf)
+{: .note}For site visits follow the [Geologists' Association Fieldwork Code](https://somersetgeology.github.io/GA_geological_field_work_code.pdf)
 
 The Geological Conservation Review (GCR) is the register of known nationally and internationally important Earth science (geological and geomorphological) sites in Great Britain. The GCR underpins designation of Earth science features in Sites of Special Scientific Interest (SSSIs). The majority of GCR sites, therefore, now have statutory protection through designation as notified features in SSSIs.
 
