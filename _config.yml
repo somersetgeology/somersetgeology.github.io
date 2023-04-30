@@ -13,9 +13,8 @@ search.button: true
 # aux_links:
 #  "Somerset Environmental Records Centre":
 #    - "//www.somerc.com/"
-
-exclude:
- - code_of_coduct.md
+# exclude:
+# - code_of_coduct.md
 
 # Makes Aux links open in a new tab. Default is false
 # aux_links_new_tab: true
