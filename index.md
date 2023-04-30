@@ -18,7 +18,7 @@ For the latest geoconservation information for Somerset, please visit the [Somer
 
 Many of the included data sets and map layers are derived from open data sources, or sources with liberal licensing.  If you copy or adapt this application you must comply with the copyright and terms of use of the relevant data sources. All relevant attribution must be displayed.
 
-The web maps include a composite high-resolution hillshade terrain base-map layer for Southwest England, derived from the [National LIDAR Programme](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The web maps include a composite high-resolution hillshade terrain base-map layer for South West England, derived from the [National LIDAR Programme](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Hosting
 * [GitHub Pages](https://pages.github.com/)
@@ -38,9 +38,7 @@ Data sources
 * Somerset Environmental Records Centre
 
 {: .note }
-This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/somersetgeology/somersetgeology.github.io/blob/master/code_of_conduct.md)
+This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/somersetgeology/somersetgeology.github.io/blob/master/code_of_conduct.md)
 
 &copy; Geoffrey Rowland 2023
 
