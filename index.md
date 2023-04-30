@@ -40,7 +40,7 @@ Data sources
 {: .note }
 This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/)
 
-[View our Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)]((https://github.com/somersetgeology/somersetgeology.github.io/blob/master/code_of_conduct.md) on GitHub
+[View our Code of Conduct]((https://github.com/somersetgeology/somersetgeology.github.io/blob/master/code_of_conduct.md) on GitHub
 
 &copy; Geoffrey Rowland 2023
 
