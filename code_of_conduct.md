@@ -1,9 +1,3 @@
----
-title: Contributor Code of Conduct
-has_children: false
----
-
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
