@@ -4,7 +4,7 @@ has_children: true
 nav_order: 2
 ---
 
-<iframe allowfullscreen src="https://somersetgeology.github.io/gcr-csv/index.html" style="height:500px; width:100%; border:none;" title="Dorset GCR Sites"></iframe>
+<iframe allowfullscreen src="https://somersetgeology.github.io/gcr-csv/index.html" style="height:500px; width:100%; border:none;" title="Somerset GCR Sites"></iframe>
  
 # Geological Conservation Review Sites
 
