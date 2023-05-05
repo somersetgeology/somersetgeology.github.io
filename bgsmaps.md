@@ -16,7 +16,7 @@ High resolution digital scans of the most recently published 1:50 000 maps cover
 Contains British Geological Survey materials © UKRI 2023 available under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 
-Note that more up-to-date BGS digital mapping is available, and may differ significantly from the maps here.
+Note that more up-to-date BGS digital mapping is available, and may differ significantly from the maps links above.
 * [BGS Geology Viewer](https://www.bgs.ac.uk/map-viewers/bgs-geology-viewer/)
 * [BGS GeoIndex Onshore](https://www.bgs.ac.uk/map-viewers/geoindex-onshore/)
 * [BGS GeoIndex Offshore](https://www.bgs.ac.uk/map-viewers/geoindex-offshore/)
