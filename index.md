@@ -29,13 +29,13 @@ This application has been built using open source software available from the Op
 Data sources
 * Environment Agency
 * Britsh Geological Survey
-* Joint Nature Conservation Committee
+* [Joint Nature Conservation Committee](https://jncc.gov.uk/our-work/geological-conservation/)
 * Natural England
 * Historic England
 * Ordnance Survey
 * National Library of Scotland
 * Office of National Statistics
-* Somerset Environmental Records Centre
+* [Somerset Environmental Records Centre](https://www.somerc.com/specialist-groups/somerset-geology-group/)
 
 {: .note }
 This site is very much a work-in-progress. However, community comments, bug reports, feature requests etc are very welcome in [Discussions](https://github.com/somersetgeology/somersetgeology.github.io/discussions/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/somersetgeology/somersetgeology.github.io/blob/master/code_of_conduct.md)
