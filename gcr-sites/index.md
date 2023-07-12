@@ -22,3 +22,5 @@ Some unnotified GCR sites are also Local Geological Sites (LGS), and as such the
 The remaining unnotified GCR sites have no statutory protection, although they are considered to be sites of national or international importance.
 
 Initially developed between 1977 and 1990, the GCR network is periodically updated and this dataset is subject to change. Boundaries of GCR sites are often not co-incident with SSSIs.
+
+© Joint Nature Conservation Committee
