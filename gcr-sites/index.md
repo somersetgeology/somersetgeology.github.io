@@ -5,6 +5,8 @@ nav_order: 2
 ---
 
 <iframe allowfullscreen src="https://somersetgeology.github.io/gcr-csv/index.html" style="height:500px; width:100%; border:none;" title="Somerset GCR Sites"></iframe>
+
+GCR locations for Somerset extracted from the [GCR Database (part) 2019](https://hub.jncc.gov.uk/assets/b0f53582-f93d-4e70-8ff9-0f16b660e4ad) No limitation on public access or constraints on use © Joint Nature Conservation Committee 
  
 # Geological Conservation Review Sites
 
