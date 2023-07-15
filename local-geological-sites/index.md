@@ -10,8 +10,9 @@ Regionally Important Geological and Geomorphological Sites (RIGS) for Somerset w
 Many Somerset sites have also been detailed in Hugh Prudden's publications:
 * Ham Hill – the rocks and quarries (1995) South Somerset District Council.
 * Geology and Landscape of Taunton Deane - A geological exploration of south west Somerset (2001) Taunton Deane Borough Council.
-*bSomerset Geology - A Good Rock Guide (2004)
+* Somerset Geology - A Good Rock Guide (2004)
 * Rocks and landscape in and around Yeovil (2005) South Somerset District Council
+
 In 2007 Hugh Prudden was awarded the R. H. Worth Prize by the Geological Society of London, recognizing his work in bringing local geology to the notice of the public. He was also awarded the Halstead Medal by the Geologists’ Association in 1994.
 Hugh Prudden's research has been archived in the Somerset Heritage Centre.
 
