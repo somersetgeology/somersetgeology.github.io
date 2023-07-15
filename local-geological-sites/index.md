@@ -8,6 +8,9 @@ nav_order: 3
 Regionally Important Geological and Geomorphological Sites (RIGS) for Somerset were first collated by Hugh Prudden (1929-2015) as Honorary Secretary of the Somerset Geology Group. Site details were lodged with the Somerset Environmental Records Centre (SERC), the Dorset Geologists' Association Group (DGAG, Hugh Prudden was a founding member) and UKRIGS (now GeoConservationUK).
 
 Many Somerset sites have also been detailed in Hugh Prudden's publications:
+* Prudden, H C (1991) Site recording in west Somerset in Geology Today 7, 201-202
+* Prudden, H C and Anderson, M (1992) The survey of west Somerset's geological sites in Nature in Somerset 26, 29
+* Prudden, H C (1993) Site recording and farmers a personal view in Earth Science Conservation 33, 27-28
 * Ham Hill – the rocks and quarries (1995) South Somerset District Council.
 * Geology and Landscape of Taunton Deane - A geological exploration of south west Somerset (2001) Taunton Deane Borough Council.
 * [Somerset Geology - A Good Rock Guide (2004)](https://people.bath.ac.uk/exxbgs/Somerset_Good_Rock_Guide.pdf)
