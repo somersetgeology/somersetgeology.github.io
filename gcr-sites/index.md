@@ -25,5 +25,5 @@ Initially developed between 1977 and 1990, the GCR network is periodically updat
 
 [SSSI](https://www.data.gov.uk/dataset/5b632bd7-9838-4ef2-9101-ea9384421b0d/sites-of-special-scientific-interest-england#licence-info) boundaries published by Natural England are available under the [Open Government licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) © Crown Copyright 2019 
 
-Boundaries of GCR sites typically lie within but are often not co-incident with SSSIs.
+Boundaries of GCR sites typically lie within but are often not co-incident with SSSI boundaries.
 
