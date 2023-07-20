@@ -18,13 +18,13 @@ For the latest geoconservation information for Somerset, please visit the [Somer
 
 Many of the included data sets and map layers are derived from open data sources, or sources with liberal licensing.  If you copy or adapt this application you must comply with the copyright and terms of use of the relevant data sources. All relevant attribution must be displayed.
 
-The web maps include a composite high-resolution hillshade terrain base-map layer for South West England, derived from the [National LIDAR Programme](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The web maps include a composite high-resolution hillshade terrain base-map layer for South West England, derived from the [National LIDAR Programme](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) licensed under the [Open Government Licence v3.0.](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Hosting
 * [GitHub Pages](https://pages.github.com/)
 * [Just the Docs](https://just-the-docs.github.io/just-the-docs/) a documentation theme for [Jekyll](https://jekyllthemes.io/github-pages-themes)
 
-This application has been built using open source software available from the Opens Source Geospatial Foundation (OSGeo). Including [QGIS](https://qgis.org/) (The leading Free and Open Source Desktop GIS), [GDAL/OGR](https://gdal.org/) (C++ translator library for more than 200 raster and vector geospatial data formats) and [LeafletJS](https://leafletjs.com/) (Open-source JavaScript library for mobile-friendly interactive maps).
+This application has been built using open source software available from the Opens Source Geospatial Foundation (OSGeo). Including [QGIS](https://qgis.org/) (The leading Free and Open Source Desktop GIS), [GDAL/OGR](https://gdal.org/) (C++ translator library for more than 200 raster and vector geospatial data formats) and [LeafletJS](https://leafletjs.com/) (an open-source JavaScript library for mobile-friendly interactive maps.
 
 Data sources
 * Environment Agency
