@@ -11,6 +11,7 @@ GCR locations for Somerset extracted from the [GCR Database (part) 2019](https:/
 # Geological Conservation Review Sites
 
 {: .important}
+Many GCR sites are on private land: the listing of a site in these pages does not imply any right of public access. Prior consent for visits should always be obtained from the landowner and/or occupier via the relevant country conservation agency.
 For site visits, follow the [Geologists' Association Fieldwork Code](https://somersetgeology.github.io/GA_geological_field_work_code.pdf)
 
 The Geological Conservation Review (GCR) is the register of known nationally and internationally important Earth science (geological and geomorphological) sites in Great Britain. The GCR underpins designation of Earth science features in Sites of Special Scientific Interest (SSSIs). The majority of GCR sites, therefore, now have statutory protection through designation as notified features in SSSIs.
