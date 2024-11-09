@@ -8,4 +8,4 @@ has_children: false
 
 # 3D Geology
 
-&copy; Geoffrey Rowland 2023
+&copy; Geoffrey Rowland 2023-2024
