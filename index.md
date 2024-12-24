@@ -7,15 +7,6 @@ nav_order: 1
 ![William Smith section](/assets/images/TauntonStallbridge.png "William Smith's 1819 geological section of south Somerset and north Dorset")
 # Somerset Geology
 
-Geological features in Somerset.
-
-@book{ruby,
-  title     = {The Ruby Programming Language},
-  author    = {Flanagan, David and Matsumoto, Yukihiro},
-  year      = {2008},
-  publisher = {O'Reilly Media}
-}
-
 This is a 'proof-of-concept' site exploring the use of web technologies to give access to geological and geoconservation information from a range of authoritative sources (detailed below).
 
 Educational and research use only. Not for navigational, planning or commercial use. 
