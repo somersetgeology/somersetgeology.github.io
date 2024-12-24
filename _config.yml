@@ -2,6 +2,7 @@ title: "Somerset Geology"
 description: Geological features in Somerset
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 # remote_theme: just-the-docs/just-the-docs
+plugins: ['jekyll/scholar']
 url: https://somersetgeology.github.io
 # set full page width
 # color_scheme: wider
